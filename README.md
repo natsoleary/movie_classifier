@@ -1,1 +1,2 @@
-# movie_classifier
+# Analyzing Objectivity in Film Maturity Ratings
+The maturity ratings of films given by the Motion Picture Association of America have longremained mysterious to the public.   This paper seeks to demystify these ratings somewhat byanalyzing the ability of various classification models to predict the ratings given to a test set offilms. Because the ratings are determined by a group of individuals with a vested interest in theoutcome, the prediction is that models will not be particularly successful at determining ratingsfrom the scripts alone. This prediction is supported by the results of this project.
